@@ -3,7 +3,9 @@
 -
 
 
- 🔭 I’m currently working on ...
+  
+  Computer Eng Student at Shahid Beheshti University
+  Software Eng at Snapp Team
  🌱 I’m currently learning Robotic and Trading
 - 🤔 I’m looking for help with microprocessor
 - 💬 Ask me about GO and Node.js
