@@ -6,8 +6,7 @@
   
  - Computer Eng Student at Shahid Beheshti University
  - Software Eng at Snapp Team
- -🌱 I’m currently learning Robotic and Trading
-- 🤔 I’m looking for help with microprocessor
+ -🌱 I’m currently learning Reverse Engineering for finding Vulnerabilities in IoT Firmware
 - 💬 Ask me about GO and Node.js
 - 📫 How to reach me: t.me/Hsmnasiri
 - 😄 Pronouns: Sodium
